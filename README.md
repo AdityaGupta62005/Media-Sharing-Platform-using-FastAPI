@@ -54,17 +54,18 @@ Users can:
 ## Upload Page
 <img width="1914" height="960" alt="Upload-share-3" src="https://github.com/user-attachments/assets/951c0746-18e5-4e59-90e7-fa8eb7620288" />
 
+## Shared Image
 <img width="1905" height="942" alt="Feed After" src="https://github.com/user-attachments/assets/cdf0b9b2-bf9e-483e-ab11-a9e96a3b28e0" />
 
-## OAuth Integration
+## OAuth Token Generation
 <img width="1907" height="968" alt="OAuth2Password-0" src="https://github.com/user-attachments/assets/c33ec8a1-ce53-4d26-901d-0c7500e4ffad" />
 
-## FastAPI Doc
-<img width="1906" height="964" alt="FastAPI-1" src="https://github.com/user-attachments/assets/472f00b8-486a-4978-b45b-7e268dd7d85a" />
+## FastAPI Docs
+<img width="1914" height="960" alt="FastAPI-1" src="https://github.com/user-attachments/assets/6c678f27-af71-4d68-80da-a93ea7f07be2" />
 
-<img width="1902" height="963" alt="FastAPI-2" src="https://github.com/user-attachments/assets/5fe612a4-9327-4cf8-ba38-fcf73ea9efd9" />
+<img width="1906" height="910" alt="FastAPI-2" src="https://github.com/user-attachments/assets/90b5c316-6ebf-4017-92cc-d6c2d5662526" />
 
-<img width="1907" height="962" alt="FastAPI-3" src="https://github.com/user-attachments/assets/a00aadbf-0ff1-4cf2-ad2d-fd82a1eef3d0" />
+<img width="1905" height="910" alt="FastAPI-3" src="https://github.com/user-attachments/assets/32aa856e-1924-4c9a-96c8-84ee333341da" />
 
 ## Imagekito Dashboard
 <img width="1906" height="964" alt="imagekito dashboard" src="https://github.com/user-attachments/assets/4203cd0d-6b91-4fd2-9e8e-ea52a642a1a1" />
