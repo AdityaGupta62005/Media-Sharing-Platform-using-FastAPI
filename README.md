@@ -1,4 +1,4 @@
-# FastAPI + Streamlit Photo Video Sharing App
+# Media Sharing Platform using FastAPI
 
 A full-stack photo video sharing application built using **FastAPI**, **Streamlit**, **FastAPI Users**, **SQLAlchemy Async**, and **ImageKit CDN**.
 
